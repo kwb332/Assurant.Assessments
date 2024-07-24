@@ -1,0 +1,17 @@
+C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Domain\obj\Debug\net8.0\Assurant.Pricing.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Domain\obj\Debug\net8.0\Assurant.Pricing.Domain.AssemblyInfoInputs.cache
+C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Domain\obj\Debug\net8.0\Assurant.Pricing.Domain.AssemblyInfo.cs
+C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Domain\obj\Debug\net8.0\Assurant.Pricing.Domain.csproj.CoreCompileInputs.cache
+C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Domain\obj\Debug\net8.0\Assurant.Pricing.Domain.csproj.AssemblyReference.cache
+C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Domain\bin\Debug\net8.0\Assurant.Pricing.Domain.deps.json
+C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Domain\bin\Debug\net8.0\Assurant.Pricing.Domain.dll
+C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Domain\bin\Debug\net8.0\Assurant.Pricing.Domain.pdb
+C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Domain\bin\Debug\net8.0\Assurant.Pricing.Domain.Contract.dll
+C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Domain\bin\Debug\net8.0\Assurant.Pricing.Infrastructure.Contract.dll
+C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Domain\bin\Debug\net8.0\Assurant.Pricing.Domain.Contract.pdb
+C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Domain\bin\Debug\net8.0\Assurant.Pricing.Infrastructure.Contract.pdb
+C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Domain\obj\Debug\net8.0\Assurant.E1E29FDC.Up2Date
+C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Domain\obj\Debug\net8.0\Assurant.Pricing.Domain.dll
+C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Domain\obj\Debug\net8.0\refint\Assurant.Pricing.Domain.dll
+C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Domain\obj\Debug\net8.0\Assurant.Pricing.Domain.pdb
+C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Domain\obj\Debug\net8.0\ref\Assurant.Pricing.Domain.dll

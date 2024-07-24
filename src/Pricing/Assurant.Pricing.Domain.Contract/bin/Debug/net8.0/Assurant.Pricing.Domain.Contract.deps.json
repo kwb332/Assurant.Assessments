@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Assurant.Pricing.Domain.Contract/1.0.0": {
+        "dependencies": {
+          "Assurant.Pricing.Infrastructure.Contract": "1.0.0"
+        },
+        "runtime": {
+          "Assurant.Pricing.Domain.Contract.dll": {}
+        }
+      },
+      "Assurant.Pricing.Infrastructure.Contract/1.0.0": {
+        "runtime": {
+          "Assurant.Pricing.Infrastructure.Contract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assurant.Pricing.Domain.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Assurant.Pricing.Infrastructure.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

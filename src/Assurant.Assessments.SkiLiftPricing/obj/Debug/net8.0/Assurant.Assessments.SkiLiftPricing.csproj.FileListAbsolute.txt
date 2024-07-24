@@ -1,0 +1,17 @@
+E:\dev\Personal\Assurant.Assessments\src\Assurant.Assessments.SkiLiftPricing\obj\Debug\net8.0\Assurant.Assessments.SkiLiftPricing.csproj.AssemblyReference.cache
+E:\dev\Personal\Assurant.Assessments\src\Assurant.Assessments.SkiLiftPricing\obj\Debug\net8.0\Assurant.Assessments.SkiLiftPricing.GeneratedMSBuildEditorConfig.editorconfig
+E:\dev\Personal\Assurant.Assessments\src\Assurant.Assessments.SkiLiftPricing\obj\Debug\net8.0\Assurant.Assessments.SkiLiftPricing.AssemblyInfoInputs.cache
+E:\dev\Personal\Assurant.Assessments\src\Assurant.Assessments.SkiLiftPricing\obj\Debug\net8.0\Assurant.Assessments.SkiLiftPricing.AssemblyInfo.cs
+E:\dev\Personal\Assurant.Assessments\src\Assurant.Assessments.SkiLiftPricing\obj\Debug\net8.0\Assurant.Assessments.SkiLiftPricing.csproj.CoreCompileInputs.cache
+C:\dev\Assurant.Assessments\src\Assurant.Assessments.SkiLiftPricing\bin\Debug\net8.0\Assurant.Assessments.SkiLiftPricing.deps.json
+C:\dev\Assurant.Assessments\src\Assurant.Assessments.SkiLiftPricing\bin\Debug\net8.0\Assurant.Assessments.SkiLiftPricing.dll
+C:\dev\Assurant.Assessments\src\Assurant.Assessments.SkiLiftPricing\bin\Debug\net8.0\Assurant.Assessments.SkiLiftPricing.pdb
+C:\dev\Assurant.Assessments\src\Assurant.Assessments.SkiLiftPricing\obj\Debug\net8.0\Assurant.Assessments.SkiLiftPricing.csproj.AssemblyReference.cache
+C:\dev\Assurant.Assessments\src\Assurant.Assessments.SkiLiftPricing\obj\Debug\net8.0\Assurant.Assessments.SkiLiftPricing.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Assurant.Assessments\src\Assurant.Assessments.SkiLiftPricing\obj\Debug\net8.0\Assurant.Assessments.SkiLiftPricing.AssemblyInfoInputs.cache
+C:\dev\Assurant.Assessments\src\Assurant.Assessments.SkiLiftPricing\obj\Debug\net8.0\Assurant.Assessments.SkiLiftPricing.AssemblyInfo.cs
+C:\dev\Assurant.Assessments\src\Assurant.Assessments.SkiLiftPricing\obj\Debug\net8.0\Assurant.Assessments.SkiLiftPricing.csproj.CoreCompileInputs.cache
+C:\dev\Assurant.Assessments\src\Assurant.Assessments.SkiLiftPricing\obj\Debug\net8.0\Assurant.Assessments.SkiLiftPricing.dll
+C:\dev\Assurant.Assessments\src\Assurant.Assessments.SkiLiftPricing\obj\Debug\net8.0\refint\Assurant.Assessments.SkiLiftPricing.dll
+C:\dev\Assurant.Assessments\src\Assurant.Assessments.SkiLiftPricing\obj\Debug\net8.0\Assurant.Assessments.SkiLiftPricing.pdb
+C:\dev\Assurant.Assessments\src\Assurant.Assessments.SkiLiftPricing\obj\Debug\net8.0\ref\Assurant.Assessments.SkiLiftPricing.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "loLZ3EhupX8=",
+  "success": true,
+  "projectFilePath": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Domain\\Assurant.Pricing.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kwb33\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\kwb33\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\kwb33\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

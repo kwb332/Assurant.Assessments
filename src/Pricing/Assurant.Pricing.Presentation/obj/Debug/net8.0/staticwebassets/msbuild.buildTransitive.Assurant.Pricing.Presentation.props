@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Assurant.Pricing.Presentation.props" />
+</Project>
