@@ -11,7 +11,7 @@ namespace Assurant.Pricing.Domain.RuleEngine
     public class AgeRuleEngineDecorator : RuleEngineDecorator
     {
         public IRuleEngine _ruleEngine;
-        public AgeRuleEngineDecorator(RuleEngine ruleEngine) : base(ruleEngine) 
+        public AgeRuleEngineDecorator(IRuleEngine ruleEngine) : base(ruleEngine) 
         { 
             _ruleEngine = ruleEngine;
         }
@@ -29,31 +29,32 @@ namespace Assurant.Pricing.Domain.RuleEngine
 - If the age is not specified, the default price is the adult price.
 
          */
-        public override double CalculatePrice(ITicket ticket, IPriceRepository priceRepository, IHolidayRepository holidayRepository)
+        public override decimal CalculatePrice(ITicket ticket, IPriceRepository priceRepository, IHolidayRepository holidayRepository)
         {
-           if(ticket.Age >= 0 || ticket.Age <= 6)
+            decimal basePrice = _ruleEngine.CalculatePrice(ticket, priceRepository, holidayRepository);
+           if(ticket.Age >= 0 && ticket.Age <= 6)
             {
                 return 0;
             }
-            else if (ticket.Age >= 7 || ticket.Age <= 14)
+            else if (ticket.Age >= 7 && ticket.Age <= 14)
             {
-                return base.CalculatePrice(ticket, priceRepository, holidayRepository) * .70;
+                return basePrice - (basePrice * Convert.ToDecimal(0.70));
             }
-            else if (ticket.Age >= 15 || ticket.Age <= 23)
+            else if (ticket.Age >= 15 && ticket.Age <= 23)
             {
-                return base.CalculatePrice(ticket, priceRepository, holidayRepository) * .50;
+                return basePrice - (basePrice * Convert.ToDecimal(.50));
             }
-            else if (ticket.Age > 23 || ticket.Age <= 63)
+            else if (ticket.Age > 23 && ticket.Age <= 63)
             {
-                return base.CalculatePrice(ticket, priceRepository, holidayRepository) * 1;
+                return basePrice * 1;
             }
             else if (ticket.Age >= 64)
             {
-                return base.CalculatePrice(ticket, priceRepository, holidayRepository) * .75;
+                return basePrice - (basePrice * Convert.ToDecimal((0.750)));
             }
             else
             {
-                return base.CalculatePrice(ticket,priceRepository,holidayRepository) * 1;
+                return basePrice;
             }
 
             

@@ -10,7 +10,7 @@ namespace Assurant.Pricing.Infrastructure.Contract.DataModel
     {
         public int ID {  get; set; }
 
-        public double Price { get; set; }
+        public decimal Price { get; set; }
 
         public string TicketType { get; set; }
     }

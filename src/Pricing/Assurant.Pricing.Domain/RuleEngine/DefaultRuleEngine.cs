@@ -15,9 +15,9 @@ namespace Assurant.Pricing.Domain.RuleEngine
            
 
         }
-        public override double CalculatePrice(ITicket ticket, IPriceRepository priceRepository, IHolidayRepository holidayRepository)
+        public override decimal CalculatePrice(ITicket ticket, IPriceRepository priceRepository, IHolidayRepository holidayRepository)
         { 
-            double price = priceRepository.GetPrice(ticket.Type);
+            decimal price = priceRepository.GetPrice(ticket.Type);
             return price;
         }
 

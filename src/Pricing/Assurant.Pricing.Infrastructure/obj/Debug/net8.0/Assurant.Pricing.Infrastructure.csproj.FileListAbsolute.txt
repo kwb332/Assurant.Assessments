@@ -13,3 +13,4 @@ C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Infrastructure\obj\Debu
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Infrastructure\obj\Debug\net8.0\refint\Assurant.Pricing.Infrastructure.dll
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Infrastructure\obj\Debug\net8.0\Assurant.Pricing.Infrastructure.pdb
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Infrastructure\obj\Debug\net8.0\ref\Assurant.Pricing.Infrastructure.dll
+C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Infrastructure\obj\Debug\net8.0\Assurant.Pricing.Infrastructure.sourcelink.json

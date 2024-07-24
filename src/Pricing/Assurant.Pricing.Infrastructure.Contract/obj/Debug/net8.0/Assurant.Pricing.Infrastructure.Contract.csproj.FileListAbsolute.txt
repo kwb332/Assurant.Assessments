@@ -9,3 +9,4 @@ C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Infrastructure.Contract
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Infrastructure.Contract\obj\Debug\net8.0\refint\Assurant.Pricing.Infrastructure.Contract.dll
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Infrastructure.Contract\obj\Debug\net8.0\Assurant.Pricing.Infrastructure.Contract.pdb
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Infrastructure.Contract\obj\Debug\net8.0\ref\Assurant.Pricing.Infrastructure.Contract.dll
+C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Infrastructure.Contract\obj\Debug\net8.0\Assurant.Pricing.Infrastructure.Contract.sourcelink.json

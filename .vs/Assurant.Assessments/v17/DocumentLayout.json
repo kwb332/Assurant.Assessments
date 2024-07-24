@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\dev\\Assurant.Assessments\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CFBDFF60-A07E-4040-AA32-1D6EE0AE8A34}|src\\Pricing\\Assurant.Pricing.Domain\\Assurant.Pricing.Domain.csproj|c:\\dev\\assurant.assessments\\src\\pricing\\assurant.pricing.domain\\ruleenginefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFBDFF60-A07E-4040-AA32-1D6EE0AE8A34}|src\\Pricing\\Assurant.Pricing.Domain\\Assurant.Pricing.Domain.csproj|solutionrelative:src\\pricing\\assurant.pricing.domain\\ruleenginefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0265942E-F1E3-44A2-8166-341744B2C8DA}|src\\Pricing\\Assurant.Pricing.Infrastructure\\Assurant.Pricing.Infrastructure.csproj|c:\\dev\\assurant.assessments\\src\\pricing\\assurant.pricing.infrastructure\\persistence\\holidayrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0265942E-F1E3-44A2-8166-341744B2C8DA}|src\\Pricing\\Assurant.Pricing.Infrastructure\\Assurant.Pricing.Infrastructure.csproj|solutionrelative:src\\pricing\\assurant.pricing.infrastructure\\persistence\\holidayrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62D522AE-8E79-4A76-95E1-031F0117040C}|src\\Assurant.Assessments.SkiLiftPricing\\Assurant.Assessments.SkiLiftPricing.csproj|c:\\dev\\assurant.assessments\\src\\assurant.assessments.skiliftpricing\\pricecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62D522AE-8E79-4A76-95E1-031F0117040C}|src\\Assurant.Assessments.SkiLiftPricing\\Assurant.Assessments.SkiLiftPricing.csproj|solutionrelative:src\\assurant.assessments.skiliftpricing\\pricecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFBDFF60-A07E-4040-AA32-1D6EE0AE8A34}|src\\Pricing\\Assurant.Pricing.Domain\\Assurant.Pricing.Domain.csproj|c:\\dev\\assurant.assessments\\src\\pricing\\assurant.pricing.domain\\ruleengine\\ageruleenginedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFBDFF60-A07E-4040-AA32-1D6EE0AE8A34}|src\\Pricing\\Assurant.Pricing.Domain\\Assurant.Pricing.Domain.csproj|solutionrelative:src\\pricing\\assurant.pricing.domain\\ruleengine\\ageruleenginedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62D522AE-8E79-4A76-95E1-031F0117040C}|src\\Assurant.Assessments.SkiLiftPricing\\Assurant.Assessments.SkiLiftPricing.csproj|c:\\dev\\assurant.assessments\\src\\assurant.assessments.skiliftpricing\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{62D522AE-8E79-4A76-95E1-031F0117040C}|src\\Assurant.Assessments.SkiLiftPricing\\Assurant.Assessments.SkiLiftPricing.csproj|solutionrelative:src\\assurant.assessments.skiliftpricing\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{CFBDFF60-A07E-4040-AA32-1D6EE0AE8A34}|src\\Pricing\\Assurant.Pricing.Domain\\Assurant.Pricing.Domain.csproj|c:\\dev\\assurant.assessments\\src\\pricing\\assurant.pricing.domain\\ruleengine\\defaultruleengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFBDFF60-A07E-4040-AA32-1D6EE0AE8A34}|src\\Pricing\\Assurant.Pricing.Domain\\Assurant.Pricing.Domain.csproj|solutionrelative:src\\pricing\\assurant.pricing.domain\\ruleengine\\defaultruleengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62D522AE-8E79-4A76-95E1-031F0117040C}|src\\Assurant.Assessments.SkiLiftPricing\\Assurant.Assessments.SkiLiftPricing.csproj|c:\\dev\\assurant.assessments\\src\\assurant.assessments.skiliftpricing\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62D522AE-8E79-4A76-95E1-031F0117040C}|src\\Assurant.Assessments.SkiLiftPricing\\Assurant.Assessments.SkiLiftPricing.csproj|solutionrelative:src\\assurant.assessments.skiliftpricing\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0265942E-F1E3-44A2-8166-341744B2C8DA}|src\\Pricing\\Assurant.Pricing.Infrastructure\\Assurant.Pricing.Infrastructure.csproj|c:\\dev\\assurant.assessments\\src\\pricing\\assurant.pricing.infrastructure\\persistence\\pricerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0265942E-F1E3-44A2-8166-341744B2C8DA}|src\\Pricing\\Assurant.Pricing.Infrastructure\\Assurant.Pricing.Infrastructure.csproj|solutionrelative:src\\pricing\\assurant.pricing.infrastructure\\persistence\\pricerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7EF09AAC-4732-4061-9848-79E88A4CA04F}|src\\Pricing\\Assurant.Pricing.Presentation\\Assurant.Pricing.Presentation.csproj|c:\\dev\\assurant.assessments\\src\\pricing\\assurant.pricing.presentation\\controllers\\pricecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,40 +31,44 @@
       "RelativeMoniker": "D:0:0:{CFBDFF60-A07E-4040-AA32-1D6EE0AE8A34}|src\\Pricing\\Assurant.Pricing.Domain\\Assurant.Pricing.Domain.csproj|solutionrelative:src\\pricing\\assurant.pricing.domain\\ruleengine\\dateruleenginedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0265942E-F1E3-44A2-8166-341744B2C8DA}|src\\Pricing\\Assurant.Pricing.Infrastructure\\Assurant.Pricing.Infrastructure.csproj|c:\\dev\\assurant.assessments\\src\\pricing\\assurant.pricing.infrastructure\\persistence\\holidayrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0265942E-F1E3-44A2-8166-341744B2C8DA}|src\\Pricing\\Assurant.Pricing.Infrastructure\\Assurant.Pricing.Infrastructure.csproj|solutionrelative:src\\pricing\\assurant.pricing.infrastructure\\persistence\\holidayrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE750A11-6AA3-4A24-ABA3-753D04365110}|src\\Pricing\\Assurant.Pricing.Domain.Contract\\Assurant.Pricing.Domain.Contract.csproj|c:\\dev\\assurant.assessments\\src\\pricing\\assurant.pricing.domain.contract\\interface\\iruleengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE750A11-6AA3-4A24-ABA3-753D04365110}|src\\Pricing\\Assurant.Pricing.Domain.Contract\\Assurant.Pricing.Domain.Contract.csproj|solutionrelative:src\\pricing\\assurant.pricing.domain.contract\\interface\\iruleengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFBDFF60-A07E-4040-AA32-1D6EE0AE8A34}|src\\Pricing\\Assurant.Pricing.Domain\\Assurant.Pricing.Domain.csproj|c:\\dev\\assurant.assessments\\src\\pricing\\assurant.pricing.domain\\ruleengine\\ageruleenginedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFBDFF60-A07E-4040-AA32-1D6EE0AE8A34}|src\\Pricing\\Assurant.Pricing.Domain\\Assurant.Pricing.Domain.csproj|solutionrelative:src\\pricing\\assurant.pricing.domain\\ruleengine\\ageruleenginedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFBDFF60-A07E-4040-AA32-1D6EE0AE8A34}|src\\Pricing\\Assurant.Pricing.Domain\\Assurant.Pricing.Domain.csproj|c:\\dev\\assurant.assessments\\src\\pricing\\assurant.pricing.domain\\ruleengine\\ruleenginedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFBDFF60-A07E-4040-AA32-1D6EE0AE8A34}|src\\Pricing\\Assurant.Pricing.Domain\\Assurant.Pricing.Domain.csproj|solutionrelative:src\\pricing\\assurant.pricing.domain\\ruleengine\\ruleenginedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFBDFF60-A07E-4040-AA32-1D6EE0AE8A34}|src\\Pricing\\Assurant.Pricing.Domain\\Assurant.Pricing.Domain.csproj|c:\\dev\\assurant.assessments\\src\\pricing\\assurant.pricing.domain\\ruleengine\\defaultruleengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFBDFF60-A07E-4040-AA32-1D6EE0AE8A34}|src\\Pricing\\Assurant.Pricing.Domain\\Assurant.Pricing.Domain.csproj|solutionrelative:src\\pricing\\assurant.pricing.domain\\ruleengine\\defaultruleengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EF09AAC-4732-4061-9848-79E88A4CA04F}|src\\Pricing\\Assurant.Pricing.Presentation\\Assurant.Pricing.Presentation.csproj|c:\\dev\\assurant.assessments\\src\\pricing\\assurant.pricing.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EF09AAC-4732-4061-9848-79E88A4CA04F}|src\\Pricing\\Assurant.Pricing.Presentation\\Assurant.Pricing.Presentation.csproj|solutionrelative:src\\pricing\\assurant.pricing.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EF09AAC-4732-4061-9848-79E88A4CA04F}|src\\Pricing\\Assurant.Pricing.Presentation\\Assurant.Pricing.Presentation.csproj|c:\\dev\\assurant.assessments\\src\\pricing\\assurant.pricing.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7EF09AAC-4732-4061-9848-79E88A4CA04F}|src\\Pricing\\Assurant.Pricing.Presentation\\Assurant.Pricing.Presentation.csproj|solutionrelative:src\\pricing\\assurant.pricing.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EF09AAC-4732-4061-9848-79E88A4CA04F}|src\\Pricing\\Assurant.Pricing.Presentation\\Assurant.Pricing.Presentation.csproj|c:\\dev\\assurant.assessments\\src\\pricing\\assurant.pricing.presentation\\assurant.pricing.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7EF09AAC-4732-4061-9848-79E88A4CA04F}|src\\Pricing\\Assurant.Pricing.Presentation\\Assurant.Pricing.Presentation.csproj|solutionrelative:src\\pricing\\assurant.pricing.presentation\\assurant.pricing.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{FE750A11-6AA3-4A24-ABA3-753D04365110}|src\\Pricing\\Assurant.Pricing.Domain.Contract\\Assurant.Pricing.Domain.Contract.csproj|c:\\dev\\assurant.assessments\\src\\pricing\\assurant.pricing.domain.contract\\interface\\iruleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE750A11-6AA3-4A24-ABA3-753D04365110}|src\\Pricing\\Assurant.Pricing.Domain.Contract\\Assurant.Pricing.Domain.Contract.csproj|solutionrelative:src\\pricing\\assurant.pricing.domain.contract\\interface\\iruleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CFBDFF60-A07E-4040-AA32-1D6EE0AE8A34}|src\\Pricing\\Assurant.Pricing.Domain\\Assurant.Pricing.Domain.csproj|c:\\dev\\assurant.assessments\\src\\pricing\\assurant.pricing.domain\\ruleengine\\ruleengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFBDFF60-A07E-4040-AA32-1D6EE0AE8A34}|src\\Pricing\\Assurant.Pricing.Domain\\Assurant.Pricing.Domain.csproj|solutionrelative:src\\pricing\\assurant.pricing.domain\\ruleengine\\ruleengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE750A11-6AA3-4A24-ABA3-753D04365110}|src\\Pricing\\Assurant.Pricing.Domain.Contract\\Assurant.Pricing.Domain.Contract.csproj|c:\\dev\\assurant.assessments\\src\\pricing\\assurant.pricing.domain.contract\\interface\\iruleengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE750A11-6AA3-4A24-ABA3-753D04365110}|src\\Pricing\\Assurant.Pricing.Domain.Contract\\Assurant.Pricing.Domain.Contract.csproj|solutionrelative:src\\pricing\\assurant.pricing.domain.contract\\interface\\iruleengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{168E32E9-FC59-41C1-AB7D-2D3DCCC78C35}|src\\Pricing\\Assurant.Pricing.Infrastructure.Contract\\Assurant.Pricing.Infrastructure.Contract.csproj|c:\\dev\\assurant.assessments\\src\\pricing\\assurant.pricing.infrastructure.contract\\interface\\ipricerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168E32E9-FC59-41C1-AB7D-2D3DCCC78C35}|src\\Pricing\\Assurant.Pricing.Infrastructure.Contract\\Assurant.Pricing.Infrastructure.Contract.csproj|solutionrelative:src\\pricing\\assurant.pricing.infrastructure.contract\\interface\\ipricerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168E32E9-FC59-41C1-AB7D-2D3DCCC78C35}|src\\Pricing\\Assurant.Pricing.Infrastructure.Contract\\Assurant.Pricing.Infrastructure.Contract.csproj|c:\\dev\\assurant.assessments\\src\\pricing\\assurant.pricing.infrastructure.contract\\datamodel\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168E32E9-FC59-41C1-AB7D-2D3DCCC78C35}|src\\Pricing\\Assurant.Pricing.Infrastructure.Contract\\Assurant.Pricing.Infrastructure.Contract.csproj|solutionrelative:src\\pricing\\assurant.pricing.infrastructure.contract\\datamodel\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD21D581-65FC-4730-94FC-141AD1AB2F85}|src\\Pricing\\Assurant.Pricing.Test\\Assurant.Pricing.Test.csproj|c:\\dev\\assurant.assessments\\src\\pricing\\assurant.pricing.test\\pricingunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD21D581-65FC-4730-94FC-141AD1AB2F85}|src\\Pricing\\Assurant.Pricing.Test\\Assurant.Pricing.Test.csproj|solutionrelative:src\\pricing\\assurant.pricing.test\\pricingunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D522AE-8E79-4A76-95E1-031F0117040C}|src\\Assurant.Assessments.SkiLiftPricing\\Assurant.Assessments.SkiLiftPricing.csproj|c:\\dev\\assurant.assessments\\src\\assurant.assessments.skiliftpricing\\pricecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D522AE-8E79-4A76-95E1-031F0117040C}|src\\Assurant.Assessments.SkiLiftPricing\\Assurant.Assessments.SkiLiftPricing.csproj|solutionrelative:src\\assurant.assessments.skiliftpricing\\pricecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFBDFF60-A07E-4040-AA32-1D6EE0AE8A34}|src\\Pricing\\Assurant.Pricing.Domain\\Assurant.Pricing.Domain.csproj|c:\\dev\\assurant.assessments\\src\\pricing\\assurant.pricing.domain\\ruleengine\\ruleenginedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFBDFF60-A07E-4040-AA32-1D6EE0AE8A34}|src\\Pricing\\Assurant.Pricing.Domain\\Assurant.Pricing.Domain.csproj|solutionrelative:src\\pricing\\assurant.pricing.domain\\ruleengine\\ruleenginedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD21D581-65FC-4730-94FC-141AD1AB2F85}|src\\Pricing\\Assurant.Pricing.Test\\Assurant.Pricing.Test.csproj|c:\\dev\\assurant.assessments\\src\\pricing\\assurant.pricing.test\\assurant.pricing.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CD21D581-65FC-4730-94FC-141AD1AB2F85}|src\\Pricing\\Assurant.Pricing.Test\\Assurant.Pricing.Test.csproj|solutionrelative:src\\pricing\\assurant.pricing.test\\assurant.pricing.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D522AE-8E79-4A76-95E1-031F0117040C}|src\\Assurant.Assessments.SkiLiftPricing\\Assurant.Assessments.SkiLiftPricing.csproj|c:\\dev\\assurant.assessments\\src\\assurant.assessments.skiliftpricing\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{62D522AE-8E79-4A76-95E1-031F0117040C}|src\\Assurant.Assessments.SkiLiftPricing\\Assurant.Assessments.SkiLiftPricing.csproj|solutionrelative:src\\assurant.assessments.skiliftpricing\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CFBDFF60-A07E-4040-AA32-1D6EE0AE8A34}|src\\Pricing\\Assurant.Pricing.Domain\\Assurant.Pricing.Domain.csproj|c:\\dev\\assurant.assessments\\src\\pricing\\assurant.pricing.domain\\applicationoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,10 +83,6 @@
       "RelativeMoniker": "D:0:0:{FE750A11-6AA3-4A24-ABA3-753D04365110}|src\\Pricing\\Assurant.Pricing.Domain.Contract\\Assurant.Pricing.Domain.Contract.csproj|solutionrelative:src\\pricing\\assurant.pricing.domain.contract\\domainmodel\\rule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE750A11-6AA3-4A24-ABA3-753D04365110}|src\\Pricing\\Assurant.Pricing.Domain.Contract\\Assurant.Pricing.Domain.Contract.csproj|c:\\dev\\assurant.assessments\\src\\pricing\\assurant.pricing.domain.contract\\interface\\iruleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE750A11-6AA3-4A24-ABA3-753D04365110}|src\\Pricing\\Assurant.Pricing.Domain.Contract\\Assurant.Pricing.Domain.Contract.csproj|solutionrelative:src\\pricing\\assurant.pricing.domain.contract\\interface\\iruleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FE750A11-6AA3-4A24-ABA3-753D04365110}|src\\Pricing\\Assurant.Pricing.Domain.Contract\\Assurant.Pricing.Domain.Contract.csproj|c:\\dev\\assurant.assessments\\src\\pricing\\assurant.pricing.domain.contract\\interface\\iticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE750A11-6AA3-4A24-ABA3-753D04365110}|src\\Pricing\\Assurant.Pricing.Domain.Contract\\Assurant.Pricing.Domain.Contract.csproj|solutionrelative:src\\pricing\\assurant.pricing.domain.contract\\interface\\iticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -91,24 +91,12 @@
       "RelativeMoniker": "D:0:0:{FE750A11-6AA3-4A24-ABA3-753D04365110}|src\\Pricing\\Assurant.Pricing.Domain.Contract\\Assurant.Pricing.Domain.Contract.csproj|solutionrelative:src\\pricing\\assurant.pricing.domain.contract\\domainmodel\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0265942E-F1E3-44A2-8166-341744B2C8DA}|src\\Pricing\\Assurant.Pricing.Infrastructure\\Assurant.Pricing.Infrastructure.csproj|c:\\dev\\assurant.assessments\\src\\pricing\\assurant.pricing.infrastructure\\persistence\\pricerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0265942E-F1E3-44A2-8166-341744B2C8DA}|src\\Pricing\\Assurant.Pricing.Infrastructure\\Assurant.Pricing.Infrastructure.csproj|solutionrelative:src\\pricing\\assurant.pricing.infrastructure\\persistence\\pricerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0265942E-F1E3-44A2-8166-341744B2C8DA}|src\\Pricing\\Assurant.Pricing.Infrastructure\\Assurant.Pricing.Infrastructure.csproj|c:\\dev\\assurant.assessments\\src\\pricing\\assurant.pricing.infrastructure\\persistence\\pricingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0265942E-F1E3-44A2-8166-341744B2C8DA}|src\\Pricing\\Assurant.Pricing.Infrastructure\\Assurant.Pricing.Infrastructure.csproj|solutionrelative:src\\pricing\\assurant.pricing.infrastructure\\persistence\\pricingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{168E32E9-FC59-41C1-AB7D-2D3DCCC78C35}|src\\Pricing\\Assurant.Pricing.Infrastructure.Contract\\Assurant.Pricing.Infrastructure.Contract.csproj|c:\\dev\\assurant.assessments\\src\\pricing\\assurant.pricing.infrastructure.contract\\datamodel\\holiday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{168E32E9-FC59-41C1-AB7D-2D3DCCC78C35}|src\\Pricing\\Assurant.Pricing.Infrastructure.Contract\\Assurant.Pricing.Infrastructure.Contract.csproj|solutionrelative:src\\pricing\\assurant.pricing.infrastructure.contract\\datamodel\\holiday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{168E32E9-FC59-41C1-AB7D-2D3DCCC78C35}|src\\Pricing\\Assurant.Pricing.Infrastructure.Contract\\Assurant.Pricing.Infrastructure.Contract.csproj|c:\\dev\\assurant.assessments\\src\\pricing\\assurant.pricing.infrastructure.contract\\datamodel\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{168E32E9-FC59-41C1-AB7D-2D3DCCC78C35}|src\\Pricing\\Assurant.Pricing.Infrastructure.Contract\\Assurant.Pricing.Infrastructure.Contract.csproj|solutionrelative:src\\pricing\\assurant.pricing.infrastructure.contract\\datamodel\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{168E32E9-FC59-41C1-AB7D-2D3DCCC78C35}|src\\Pricing\\Assurant.Pricing.Infrastructure.Contract\\Assurant.Pricing.Infrastructure.Contract.csproj|c:\\dev\\assurant.assessments\\src\\pricing\\assurant.pricing.infrastructure.contract\\interface\\ipricerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{168E32E9-FC59-41C1-AB7D-2D3DCCC78C35}|src\\Pricing\\Assurant.Pricing.Infrastructure.Contract\\Assurant.Pricing.Infrastructure.Contract.csproj|solutionrelative:src\\pricing\\assurant.pricing.infrastructure.contract\\interface\\ipricerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{168E32E9-FC59-41C1-AB7D-2D3DCCC78C35}|src\\Pricing\\Assurant.Pricing.Infrastructure.Contract\\Assurant.Pricing.Infrastructure.Contract.csproj|c:\\dev\\assurant.assessments\\src\\pricing\\assurant.pricing.infrastructure.contract\\interface\\iholidayrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -125,6 +113,19 @@
           "SelectedChildIndex": 10,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PriceCalculator.cs",
+              "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Assurant.Assessments.SkiLiftPricing\\PriceCalculator.cs",
+              "RelativeDocumentMoniker": "src\\Assurant.Assessments.SkiLiftPricing\\PriceCalculator.cs",
+              "ToolTip": "C:\\dev\\Assurant.Assessments\\src\\Assurant.Assessments.SkiLiftPricing\\PriceCalculator.cs",
+              "RelativeToolTip": "src\\Assurant.Assessments.SkiLiftPricing\\PriceCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:15:11.815Z",
+              "IsPinned": true
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
@@ -134,76 +135,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PriceCalculator.cs",
-              "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Assurant.Assessments.SkiLiftPricing\\PriceCalculator.cs",
-              "RelativeDocumentMoniker": "src\\Assurant.Assessments.SkiLiftPricing\\PriceCalculator.cs",
-              "ToolTip": "C:\\dev\\Assurant.Assessments\\src\\Assurant.Assessments.SkiLiftPricing\\PriceCalculator.cs",
-              "RelativeToolTip": "src\\Assurant.Assessments.SkiLiftPricing\\PriceCalculator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T15:15:11.815Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Assurant.Assessments.SkiLiftPricing\\README.md",
-              "RelativeDocumentMoniker": "src\\Assurant.Assessments.SkiLiftPricing\\README.md",
-              "ToolTip": "C:\\dev\\Assurant.Assessments\\src\\Assurant.Assessments.SkiLiftPricing\\README.md",
-              "RelativeToolTip": "src\\Assurant.Assessments.SkiLiftPricing\\README.md",
-              "ViewState": "AQIAACUAAAAAAAAAAAAkwDoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-07-24T15:10:36.86Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DateRuleEngineDecorator.cs",
-              "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Domain\\RuleEngine\\DateRuleEngineDecorator.cs",
-              "RelativeDocumentMoniker": "src\\Pricing\\Assurant.Pricing.Domain\\RuleEngine\\DateRuleEngineDecorator.cs",
-              "ToolTip": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Domain\\RuleEngine\\DateRuleEngineDecorator.cs",
-              "RelativeToolTip": "src\\Pricing\\Assurant.Pricing.Domain\\RuleEngine\\DateRuleEngineDecorator.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAewDgAAAAIAAAA",
+              "Title": "DefaultRuleEngine.cs",
+              "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Domain\\RuleEngine\\DefaultRuleEngine.cs",
+              "RelativeDocumentMoniker": "src\\Pricing\\Assurant.Pricing.Domain\\RuleEngine\\DefaultRuleEngine.cs",
+              "ToolTip": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Domain\\RuleEngine\\DefaultRuleEngine.cs",
+              "RelativeToolTip": "src\\Pricing\\Assurant.Pricing.Domain\\RuleEngine\\DefaultRuleEngine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T14:12:18.644Z"
+              "WhenOpened": "2024-07-24T19:29:54.43Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HolidayRepository.cs",
-              "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Infrastructure\\Persistence\\HolidayRepository.cs",
-              "RelativeDocumentMoniker": "src\\Pricing\\Assurant.Pricing.Infrastructure\\Persistence\\HolidayRepository.cs",
-              "ToolTip": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Infrastructure\\Persistence\\HolidayRepository.cs",
-              "RelativeToolTip": "src\\Pricing\\Assurant.Pricing.Infrastructure\\Persistence\\HolidayRepository.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAwCYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T13:51:44.165Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PriceController.cs",
-              "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Presentation\\Controllers\\PriceController.cs",
-              "RelativeDocumentMoniker": "src\\Pricing\\Assurant.Pricing.Presentation\\Controllers\\PriceController.cs",
-              "ToolTip": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Presentation\\Controllers\\PriceController.cs",
-              "RelativeToolTip": "src\\Pricing\\Assurant.Pricing.Presentation\\Controllers\\PriceController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAIAwwB0AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T14:20:03.399Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "AgeRuleEngineDecorator.cs",
               "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Domain\\RuleEngine\\AgeRuleEngineDecorator.cs",
               "RelativeDocumentMoniker": "src\\Pricing\\Assurant.Pricing.Domain\\RuleEngine\\AgeRuleEngineDecorator.cs",
               "ToolTip": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Domain\\RuleEngine\\AgeRuleEngineDecorator.cs",
               "RelativeToolTip": "src\\Pricing\\Assurant.Pricing.Domain\\RuleEngine\\AgeRuleEngineDecorator.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAWwBEAAAAPAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAADgvyIAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-24T14:11:40.119Z"
             },
@@ -215,124 +165,170 @@
               "RelativeDocumentMoniker": "src\\Pricing\\Assurant.Pricing.Domain\\Service\\RuleService.cs",
               "ToolTip": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Domain\\Service\\RuleService.cs",
               "RelativeToolTip": "src\\Pricing\\Assurant.Pricing.Domain\\Service\\RuleService.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAWwCoAAAAIAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAA2wBwAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T14:03:19.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T18:53:47.61Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RuleEngineDecorator.cs",
-              "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Domain\\RuleEngine\\RuleEngineDecorator.cs",
-              "RelativeDocumentMoniker": "src\\Pricing\\Assurant.Pricing.Domain\\RuleEngine\\RuleEngineDecorator.cs",
-              "ToolTip": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Domain\\RuleEngine\\RuleEngineDecorator.cs",
-              "RelativeToolTip": "src\\Pricing\\Assurant.Pricing.Domain\\RuleEngine\\RuleEngineDecorator.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBEAAAAKAAAA",
+              "DocumentIndex": 8,
+              "Title": "IRuleService.cs",
+              "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Domain.Contract\\Interface\\IRuleService.cs",
+              "RelativeDocumentMoniker": "src\\Pricing\\Assurant.Pricing.Domain.Contract\\Interface\\IRuleService.cs",
+              "ToolTip": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Domain.Contract\\Interface\\IRuleService.cs",
+              "RelativeToolTip": "src\\Pricing\\Assurant.Pricing.Domain.Contract\\Interface\\IRuleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T13:36:50.09Z"
+              "WhenOpened": "2024-07-24T13:55:51.241Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RuleEngineFactory.cs",
-              "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Domain\\RuleEngineFactory.cs",
-              "RelativeDocumentMoniker": "src\\Pricing\\Assurant.Pricing.Domain\\RuleEngineFactory.cs",
-              "ToolTip": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Domain\\RuleEngineFactory.cs",
-              "RelativeToolTip": "src\\Pricing\\Assurant.Pricing.Domain\\RuleEngineFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "PriceController.cs",
+              "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Presentation\\Controllers\\PriceController.cs",
+              "RelativeDocumentMoniker": "src\\Pricing\\Assurant.Pricing.Presentation\\Controllers\\PriceController.cs",
+              "ToolTip": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Presentation\\Controllers\\PriceController.cs",
+              "RelativeToolTip": "src\\Pricing\\Assurant.Pricing.Presentation\\Controllers\\PriceController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwBkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T13:54:21.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Ticket.cs",
-              "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Assurant.Assessments.SkiLiftPricing\\Ticket.cs",
-              "RelativeDocumentMoniker": "src\\Assurant.Assessments.SkiLiftPricing\\Ticket.cs",
-              "ToolTip": "C:\\dev\\Assurant.Assessments\\src\\Assurant.Assessments.SkiLiftPricing\\Ticket.cs",
-              "RelativeToolTip": "src\\Assurant.Assessments.SkiLiftPricing\\Ticket.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T16:01:34.604Z"
+              "WhenOpened": "2024-07-24T18:02:04.519Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "DefaultRuleEngine.cs",
-              "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Domain\\RuleEngine\\DefaultRuleEngine.cs",
-              "RelativeDocumentMoniker": "src\\Pricing\\Assurant.Pricing.Domain\\RuleEngine\\DefaultRuleEngine.cs",
-              "ToolTip": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Domain\\RuleEngine\\DefaultRuleEngine.cs",
-              "RelativeToolTip": "src\\Pricing\\Assurant.Pricing.Domain\\RuleEngine\\DefaultRuleEngine.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "IPriceRepository.cs",
+              "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Infrastructure.Contract\\Interface\\IPriceRepository.cs",
+              "RelativeDocumentMoniker": "src\\Pricing\\Assurant.Pricing.Infrastructure.Contract\\Interface\\IPriceRepository.cs",
+              "ToolTip": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Infrastructure.Contract\\Interface\\IPriceRepository.cs",
+              "RelativeToolTip": "src\\Pricing\\Assurant.Pricing.Infrastructure.Contract\\Interface\\IPriceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T14:11:58.898Z",
+              "WhenOpened": "2024-07-24T13:45:09.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PriceRepository.cs",
+              "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Infrastructure\\Persistence\\PriceRepository.cs",
+              "RelativeDocumentMoniker": "src\\Pricing\\Assurant.Pricing.Infrastructure\\Persistence\\PriceRepository.cs",
+              "ToolTip": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Infrastructure\\Persistence\\PriceRepository.cs",
+              "RelativeToolTip": "src\\Pricing\\Assurant.Pricing.Infrastructure\\Persistence\\PriceRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAADwvxsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:38:21.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HolidayRepository.cs",
+              "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Infrastructure\\Persistence\\HolidayRepository.cs",
+              "RelativeDocumentMoniker": "src\\Pricing\\Assurant.Pricing.Infrastructure\\Persistence\\HolidayRepository.cs",
+              "ToolTip": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Infrastructure\\Persistence\\HolidayRepository.cs",
+              "RelativeToolTip": "src\\Pricing\\Assurant.Pricing.Infrastructure\\Persistence\\HolidayRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:51:44.165Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Presentation\\Program.cs",
-              "RelativeDocumentMoniker": "src\\Pricing\\Assurant.Pricing.Presentation\\Program.cs",
-              "ToolTip": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Presentation\\Program.cs",
-              "RelativeToolTip": "src\\Pricing\\Assurant.Pricing.Presentation\\Program.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAewAwAAABTAAAA",
+              "DocumentIndex": 6,
+              "Title": "DateRuleEngineDecorator.cs",
+              "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Domain\\RuleEngine\\DateRuleEngineDecorator.cs",
+              "RelativeDocumentMoniker": "src\\Pricing\\Assurant.Pricing.Domain\\RuleEngine\\DateRuleEngineDecorator.cs",
+              "ToolTip": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Domain\\RuleEngine\\DateRuleEngineDecorator.cs",
+              "RelativeToolTip": "src\\Pricing\\Assurant.Pricing.Domain\\RuleEngine\\DateRuleEngineDecorator.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvx0AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T13:40:16.781Z"
+              "WhenOpened": "2024-07-24T18:05:14.631Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "RuleEngine.cs",
-              "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Domain\\RuleEngine\\RuleEngine.cs",
-              "RelativeDocumentMoniker": "src\\Pricing\\Assurant.Pricing.Domain\\RuleEngine\\RuleEngine.cs",
-              "ToolTip": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Domain\\RuleEngine\\RuleEngine.cs",
-              "RelativeToolTip": "src\\Pricing\\Assurant.Pricing.Domain\\RuleEngine\\RuleEngine.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T14:05:38.621Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Assurant.Pricing.Presentation.csproj",
-              "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Presentation\\Assurant.Pricing.Presentation.csproj",
-              "RelativeDocumentMoniker": "src\\Pricing\\Assurant.Pricing.Presentation\\Assurant.Pricing.Presentation.csproj",
-              "ToolTip": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Presentation\\Assurant.Pricing.Presentation.csproj",
-              "RelativeToolTip": "src\\Pricing\\Assurant.Pricing.Presentation\\Assurant.Pricing.Presentation.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-24T14:19:58.637Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Presentation\\appsettings.json",
-              "RelativeDocumentMoniker": "src\\Pricing\\Assurant.Pricing.Presentation\\appsettings.json",
-              "ToolTip": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Presentation\\appsettings.json",
-              "RelativeToolTip": "src\\Pricing\\Assurant.Pricing.Presentation\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-24T14:20:33.85Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 7,
               "Title": "IRuleEngine.cs",
               "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Domain.Contract\\Interface\\IRuleEngine.cs",
               "RelativeDocumentMoniker": "src\\Pricing\\Assurant.Pricing.Domain.Contract\\Interface\\IRuleEngine.cs",
               "ToolTip": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Domain.Contract\\Interface\\IRuleEngine.cs",
               "RelativeToolTip": "src\\Pricing\\Assurant.Pricing.Domain.Contract\\Interface\\IRuleEngine.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-24T13:55:47.747Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RuleEngine.cs",
+              "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Domain\\RuleEngine\\RuleEngine.cs",
+              "RelativeDocumentMoniker": "src\\Pricing\\Assurant.Pricing.Domain\\RuleEngine\\RuleEngine.cs",
+              "ToolTip": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Domain\\RuleEngine\\RuleEngine.cs",
+              "RelativeToolTip": "src\\Pricing\\Assurant.Pricing.Domain\\RuleEngine\\RuleEngine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T21:12:04.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Assurant.Pricing.Test.csproj",
+              "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Test\\Assurant.Pricing.Test.csproj",
+              "RelativeDocumentMoniker": "src\\Pricing\\Assurant.Pricing.Test\\Assurant.Pricing.Test.csproj",
+              "ToolTip": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Test\\Assurant.Pricing.Test.csproj",
+              "RelativeToolTip": "src\\Pricing\\Assurant.Pricing.Test\\Assurant.Pricing.Test.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-24T17:29:13.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Infrastructure.Contract\\DataModel\\Ticket.cs",
+              "RelativeDocumentMoniker": "src\\Pricing\\Assurant.Pricing.Infrastructure.Contract\\DataModel\\Ticket.cs",
+              "ToolTip": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Infrastructure.Contract\\DataModel\\Ticket.cs",
+              "RelativeToolTip": "src\\Pricing\\Assurant.Pricing.Infrastructure.Contract\\DataModel\\Ticket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:41:08.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RuleEngineDecorator.cs",
+              "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Domain\\RuleEngine\\RuleEngineDecorator.cs",
+              "RelativeDocumentMoniker": "src\\Pricing\\Assurant.Pricing.Domain\\RuleEngine\\RuleEngineDecorator.cs",
+              "ToolTip": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Domain\\RuleEngine\\RuleEngineDecorator.cs",
+              "RelativeToolTip": "src\\Pricing\\Assurant.Pricing.Domain\\RuleEngine\\RuleEngineDecorator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:36:50.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PricingUnitTest.cs",
+              "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Test\\PricingUnitTest.cs",
+              "RelativeDocumentMoniker": "src\\Pricing\\Assurant.Pricing.Test\\PricingUnitTest.cs",
+              "ToolTip": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Test\\PricingUnitTest.cs",
+              "RelativeToolTip": "src\\Pricing\\Assurant.Pricing.Test\\PricingUnitTest.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAqwIUAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T17:21:23.559Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Assurant.Assessments.SkiLiftPricing\\README.md",
+              "RelativeDocumentMoniker": "src\\Assurant.Assessments.SkiLiftPricing\\README.md",
+              "ToolTip": "C:\\dev\\Assurant.Assessments\\src\\Assurant.Assessments.SkiLiftPricing\\README.md",
+              "RelativeToolTip": "src\\Assurant.Assessments.SkiLiftPricing\\README.md",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-07-24T15:10:36.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "ApplicationOptions.cs",
               "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Domain\\ApplicationOptions.cs",
               "RelativeDocumentMoniker": "src\\Pricing\\Assurant.Pricing.Domain\\ApplicationOptions.cs",
@@ -344,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Ticket.cs",
               "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Domain.Contract\\DomainModel\\Ticket.cs",
               "RelativeDocumentMoniker": "src\\Pricing\\Assurant.Pricing.Domain.Contract\\DomainModel\\Ticket.cs",
@@ -356,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Rule.cs",
               "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Domain.Contract\\DomainModel\\Rule.cs",
               "RelativeDocumentMoniker": "src\\Pricing\\Assurant.Pricing.Domain.Contract\\DomainModel\\Rule.cs",
@@ -365,18 +361,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-24T13:57:52.668Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IRuleService.cs",
-              "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Domain.Contract\\Interface\\IRuleService.cs",
-              "RelativeDocumentMoniker": "src\\Pricing\\Assurant.Pricing.Domain.Contract\\Interface\\IRuleService.cs",
-              "ToolTip": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Domain.Contract\\Interface\\IRuleService.cs",
-              "RelativeToolTip": "src\\Pricing\\Assurant.Pricing.Domain.Contract\\Interface\\IRuleService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T13:55:51.241Z"
             },
             {
               "$type": "Document",
@@ -404,19 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "IPriceRepository.cs",
-              "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Infrastructure.Contract\\Interface\\IPriceRepository.cs",
-              "RelativeDocumentMoniker": "src\\Pricing\\Assurant.Pricing.Infrastructure.Contract\\Interface\\IPriceRepository.cs",
-              "ToolTip": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Infrastructure.Contract\\Interface\\IPriceRepository.cs",
-              "RelativeToolTip": "src\\Pricing\\Assurant.Pricing.Infrastructure.Contract\\Interface\\IPriceRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T13:45:09.885Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "PricingContext.cs",
               "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Infrastructure\\Persistence\\PricingContext.cs",
               "RelativeDocumentMoniker": "src\\Pricing\\Assurant.Pricing.Infrastructure\\Persistence\\PricingContext.cs",
@@ -428,19 +400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Ticket.cs",
-              "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Infrastructure.Contract\\DataModel\\Ticket.cs",
-              "RelativeDocumentMoniker": "src\\Pricing\\Assurant.Pricing.Infrastructure.Contract\\DataModel\\Ticket.cs",
-              "ToolTip": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Infrastructure.Contract\\DataModel\\Ticket.cs",
-              "RelativeToolTip": "src\\Pricing\\Assurant.Pricing.Infrastructure.Contract\\DataModel\\Ticket.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T13:41:08.237Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "Holiday.cs",
               "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Infrastructure.Contract\\DataModel\\Holiday.cs",
               "RelativeDocumentMoniker": "src\\Pricing\\Assurant.Pricing.Infrastructure.Contract\\DataModel\\Holiday.cs",
@@ -452,19 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "PriceRepository.cs",
-              "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Infrastructure\\Persistence\\PriceRepository.cs",
-              "RelativeDocumentMoniker": "src\\Pricing\\Assurant.Pricing.Infrastructure\\Persistence\\PriceRepository.cs",
-              "ToolTip": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Infrastructure\\Persistence\\PriceRepository.cs",
-              "RelativeToolTip": "src\\Pricing\\Assurant.Pricing.Infrastructure\\Persistence\\PriceRepository.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBgAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T13:38:21.052Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 24,
               "Title": "IHolidayRepository.cs",
               "DocumentMoniker": "C:\\dev\\Assurant.Assessments\\src\\Pricing\\Assurant.Pricing.Infrastructure.Contract\\Interface\\IHolidayRepository.cs",
               "RelativeDocumentMoniker": "src\\Pricing\\Assurant.Pricing.Infrastructure.Contract\\Interface\\IHolidayRepository.cs",

@@ -9,17 +9,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assurant.Assessments.SkiLif
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pricing", "Pricing", "{103CECFC-C5C0-4015-8B6D-89F62C02D52C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assurant.Pricing.Domain", "src\Pricing\Assurant.Pricing.Domain\Assurant.Pricing.Domain.csproj", "{CFBDFF60-A07E-4040-AA32-1D6EE0AE8A34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assurant.Pricing.Domain", "src\Pricing\Assurant.Pricing.Domain\Assurant.Pricing.Domain.csproj", "{CFBDFF60-A07E-4040-AA32-1D6EE0AE8A34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assurant.Pricing.Domain.Contract", "src\Pricing\Assurant.Pricing.Domain.Contract\Assurant.Pricing.Domain.Contract.csproj", "{FE750A11-6AA3-4A24-ABA3-753D04365110}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assurant.Pricing.Domain.Contract", "src\Pricing\Assurant.Pricing.Domain.Contract\Assurant.Pricing.Domain.Contract.csproj", "{FE750A11-6AA3-4A24-ABA3-753D04365110}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assurant.Pricing.Infrastructure", "src\Pricing\Assurant.Pricing.Infrastructure\Assurant.Pricing.Infrastructure.csproj", "{0265942E-F1E3-44A2-8166-341744B2C8DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assurant.Pricing.Infrastructure", "src\Pricing\Assurant.Pricing.Infrastructure\Assurant.Pricing.Infrastructure.csproj", "{0265942E-F1E3-44A2-8166-341744B2C8DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assurant.Pricing.Presentation", "src\Pricing\Assurant.Pricing.Presentation\Assurant.Pricing.Presentation.csproj", "{7EF09AAC-4732-4061-9848-79E88A4CA04F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assurant.Pricing.Presentation", "src\Pricing\Assurant.Pricing.Presentation\Assurant.Pricing.Presentation.csproj", "{7EF09AAC-4732-4061-9848-79E88A4CA04F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assurant.Pricing.Infrastructure.Contract", "src\Pricing\Assurant.Pricing.Infrastructure.Contract\Assurant.Pricing.Infrastructure.Contract.csproj", "{168E32E9-FC59-41C1-AB7D-2D3DCCC78C35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assurant.Pricing.Infrastructure.Contract", "src\Pricing\Assurant.Pricing.Infrastructure.Contract\Assurant.Pricing.Infrastructure.Contract.csproj", "{168E32E9-FC59-41C1-AB7D-2D3DCCC78C35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assurant.Pricing.Test", "src\Pricing\Assurant.Pricing.Test\Assurant.Pricing.Test.csproj", "{E05D8D1C-62D6-4B6A-B771-535C8E1CACB8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assurant.Pricing.Test", "src\Pricing\Assurant.Pricing.Test\Assurant.Pricing.Test.csproj", "{CD21D581-65FC-4730-94FC-141AD1AB2F85}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,10 +51,10 @@ Global
 		{168E32E9-FC59-41C1-AB7D-2D3DCCC78C35}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{168E32E9-FC59-41C1-AB7D-2D3DCCC78C35}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{168E32E9-FC59-41C1-AB7D-2D3DCCC78C35}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E05D8D1C-62D6-4B6A-B771-535C8E1CACB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E05D8D1C-62D6-4B6A-B771-535C8E1CACB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E05D8D1C-62D6-4B6A-B771-535C8E1CACB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E05D8D1C-62D6-4B6A-B771-535C8E1CACB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD21D581-65FC-4730-94FC-141AD1AB2F85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD21D581-65FC-4730-94FC-141AD1AB2F85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD21D581-65FC-4730-94FC-141AD1AB2F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD21D581-65FC-4730-94FC-141AD1AB2F85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -67,7 +67,7 @@ Global
 		{0265942E-F1E3-44A2-8166-341744B2C8DA} = {103CECFC-C5C0-4015-8B6D-89F62C02D52C}
 		{7EF09AAC-4732-4061-9848-79E88A4CA04F} = {103CECFC-C5C0-4015-8B6D-89F62C02D52C}
 		{168E32E9-FC59-41C1-AB7D-2D3DCCC78C35} = {103CECFC-C5C0-4015-8B6D-89F62C02D52C}
-		{E05D8D1C-62D6-4B6A-B771-535C8E1CACB8} = {103CECFC-C5C0-4015-8B6D-89F62C02D52C}
+		{CD21D581-65FC-4730-94FC-141AD1AB2F85} = {103CECFC-C5C0-4015-8B6D-89F62C02D52C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {261D19B8-780B-4D84-8933-5BF5F160EA8B}

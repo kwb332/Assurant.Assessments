@@ -20,12 +20,14 @@ public class PricingController : ControllerBase
     }
 
     [HttpGet(Name = "GetPrice")]
-    public double Get()
+    public decimal Get()
     {
         IRuleEngine ruleEngine = _ruleService.BuildRuleEngine();
         ITicket ticket = new Ticket();
+        ticket.Type = Constants.Night;
+        ticket.Age = 30;
 
-        double results = _ruleService.CalculatePrice(ruleEngine, ticket);
+        decimal results = _ruleService.CalculatePrice(ruleEngine, ticket);
 
         return results;
     }

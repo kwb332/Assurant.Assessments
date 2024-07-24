@@ -7,7 +7,7 @@ namespace Assurant.Pricing.Domain.Contract.Interface
 {
     public interface IRuleEngine
     {
-        public double CalculatePrice(ITicket ticket, IPriceRepository priceRepository, IHolidayRepository holidayRepository);
+        public decimal CalculatePrice(ITicket ticket, IPriceRepository priceRepository, IHolidayRepository holidayRepository);
         public void SetComponent(IRuleEngine ruleEngine);
         
     }

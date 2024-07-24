@@ -6,6 +6,6 @@ namespace Assurant.Pricing.Infrastructure.Contract.Interface
 {
     public interface IPriceRepository
     {
-        public double GetPrice(string ticketType);
+        public decimal GetPrice(string ticketType);
     }
 }

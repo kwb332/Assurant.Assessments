@@ -19,17 +19,19 @@ namespace Assurant.Pricing.Domain.Service
         }
         public IRuleEngine BuildRuleEngine()
         {
-            IRuleEngine engine = new DefaultRuleEngine();
+
+
+            RuleEngine.RuleEngine defaultRuleEngine = new DefaultRuleEngine();
             foreach (Rule ruleEngine in _options.Value.Rules)
             {
-                engine = RuleEngineFactory.CreateEngine(ruleEngine.RuleName, engine);
+                defaultRuleEngine = (RuleEngine.RuleEngine) RuleEngineFactory.CreateEngine(ruleEngine.RuleName, defaultRuleEngine);
             }
-            return engine;
+            return defaultRuleEngine;
         }
 
-        public double CalculatePrice(IRuleEngine ruleEngine, List<ITicket> tickets)
+        public decimal CalculatePrice(IRuleEngine ruleEngine, List<ITicket> tickets)
         {
-            double price = 0;
+            decimal price = 0;
             foreach(ITicket ticket in tickets)
             {
                 price = price + ruleEngine.CalculatePrice(ticket, _priceRepository, _holidayRepository);
@@ -37,7 +39,7 @@ namespace Assurant.Pricing.Domain.Service
             return price;
         }
 
-        public double CalculatePrice(IRuleEngine ruleEngine, ITicket ticket)
+        public decimal CalculatePrice(IRuleEngine ruleEngine, ITicket ticket)
         {
             return ruleEngine.CalculatePrice(ticket, _priceRepository, _holidayRepository);
         }

@@ -15,3 +15,4 @@ C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Domain\obj\Debug\net8.0
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Domain\obj\Debug\net8.0\refint\Assurant.Pricing.Domain.dll
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Domain\obj\Debug\net8.0\Assurant.Pricing.Domain.pdb
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Domain\obj\Debug\net8.0\ref\Assurant.Pricing.Domain.dll
+C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Domain\obj\Debug\net8.0\Assurant.Pricing.Domain.sourcelink.json

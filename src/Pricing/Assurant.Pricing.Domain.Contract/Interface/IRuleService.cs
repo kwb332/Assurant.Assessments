@@ -7,7 +7,7 @@ namespace Assurant.Pricing.Domain.Contract.Interface
     public interface IRuleService
     {
         public IRuleEngine BuildRuleEngine();
-        public double CalculatePrice(IRuleEngine ruleEngine, List<ITicket> tickets);
-        public double CalculatePrice(IRuleEngine ruleEngine, ITicket ticket);
+        public decimal CalculatePrice(IRuleEngine ruleEngine, List<ITicket> tickets);
+        public decimal CalculatePrice(IRuleEngine ruleEngine, ITicket ticket);
     }
 }

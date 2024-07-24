@@ -77,3 +77,6 @@ C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Presentation\obj\Debug\
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Presentation\obj\Debug\net8.0\Assurant.Pricing.Presentation.pdb
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Presentation\obj\Debug\net8.0\Assurant.Pricing.Presentation.genruntimeconfig.cache
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Presentation\obj\Debug\net8.0\ref\Assurant.Pricing.Presentation.dll
+C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Presentation\bin\Debug\net8.0\Castle.Core.dll
+C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Presentation\bin\Debug\net8.0\Moq.dll
+C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Presentation\obj\Debug\net8.0\Assurant.Pricing.Presentation.sourcelink.json

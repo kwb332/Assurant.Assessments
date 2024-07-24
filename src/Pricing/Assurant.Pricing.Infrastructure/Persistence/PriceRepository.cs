@@ -18,7 +18,7 @@ namespace Assurant.Pricing.Infrastructure.Persistence
             _db = db;
   
         }
-        public double GetPrice(string ticketType)
+        public decimal GetPrice(string ticketType)
         {
             try
             {

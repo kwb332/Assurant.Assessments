@@ -7,9 +7,9 @@ namespace Assurant.Pricing.Domain.RuleEngine
 {
     public abstract class RuleEngineDecorator : RuleEngine
     {
-        protected RuleEngine _ruleEngine;
+        protected IRuleEngine _ruleEngine;
 
-        public RuleEngineDecorator(RuleEngine ruleEngine)
+        public RuleEngineDecorator(IRuleEngine ruleEngine)
         {
             this._ruleEngine = ruleEngine;
         }
@@ -22,16 +22,6 @@ namespace Assurant.Pricing.Domain.RuleEngine
             this._ruleEngine = ruleEngine;
         }
 
-        public override double CalculatePrice(ITicket ticket, IPriceRepository priceRepository, IHolidayRepository holidayRepository)
-        {
-            if(this._ruleEngine != null)
-            {
-                return this._ruleEngine.CalculatePrice(ticket, priceRepository, holidayRepository);
-            }
-            else
-            {
-                return 0;
-            }
-        }
+       
     }
 }
