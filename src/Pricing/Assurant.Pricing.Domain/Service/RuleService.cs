@@ -47,5 +47,30 @@ namespace Assurant.Pricing.Domain.Service
         {
             return ruleEngine.CalculatePrice(ticket, _priceRepository, _holidayRepository);
         }
+
+        public decimal CalculatePrice(List<ITicket> tickets)
+        {
+            IRuleEngine ruleEngine = BuildRuleEngine();
+            decimal results = 0;
+
+            foreach (Ticket ticket in tickets)
+            {
+                results = +CalculatePrice(ruleEngine, ticket);
+
+            }
+            results = results < 0 ? 0 : results;
+            return results;
+        }
+
+        public decimal CalculatePrice(ITicket ticket)
+        {
+            IRuleEngine ruleEngine = BuildRuleEngine();
+   
+
+            decimal results = CalculatePrice(ruleEngine, ticket);
+            results = results < 0 ? 0 : results;
+
+            return results;
+        }
     }
 }

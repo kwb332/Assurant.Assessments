@@ -2,6 +2,7 @@ using Assurant.Pricing.Domain.Contract.Interface;
 using Microsoft.AspNetCore.Mvc;
 using Assurant.Pricing.Domain.DomainModel;
 using Assurant.Pricing.Domain.Contract.DomainModel;
+using Assurant.Pricing.Domain.RuleEngine;
 
 namespace Assurant.Pricing.Presentation.Controllers
 { 
@@ -19,31 +20,31 @@ public class PricingController : ControllerBase
         _ruleService = ruleService;
     }
 
-    [HttpGet(Name = "GetPrice")]
-    public decimal Get()
-    {
-        IRuleEngine ruleEngine = _ruleService.BuildRuleEngine();
-        ITicket ticket = new Ticket();
-        ticket.Type = Constants.Night;
-        ticket.Age = 30;
+          [HttpGet(Name = "GetPrice")]
+        public decimal Get()
+         {
+             ITicket ticket = new Ticket();
+             ticket.Type = Constants.Night;
+             ticket.Age = 30;
 
-        decimal results = _ruleService.CalculatePrice(ruleEngine, ticket);
-        results = results < 0 ? 0 : results;
+             decimal results = _ruleService.CalculatePrice(ticket);
 
-        return results;
-    }
-        [HttpPost(Name = "GetPrices")]
-        public decimal Post(List<Ticket> tickets)
+             return results;
+         }
+      /*  [HttpGet(Name = "GetPrice")]
+        public decimal Get(ITicket ticket)
         {
-            IRuleEngine ruleEngine = _ruleService.BuildRuleEngine();
-            decimal results =0;
 
-            foreach (Ticket ticket in tickets)
-            {
-                results = +_ruleService.CalculatePrice(ruleEngine, ticket);
-               
-            }
-            results = results < 0 ? 0 : results; 
+            decimal results = _ruleService.CalculatePrice(ticket);
+
+            return results;
+        }*/
+        [HttpPost(Name = "GetPrices")]
+        public decimal Post(List<ITicket> tickets)
+        {
+          
+            decimal results = +_ruleService.CalculatePrice(tickets);
+        
             return results;
         }
     }

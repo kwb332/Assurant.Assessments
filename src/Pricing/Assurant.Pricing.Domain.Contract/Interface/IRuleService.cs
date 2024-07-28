@@ -9,5 +9,8 @@ namespace Assurant.Pricing.Domain.Contract.Interface
         public IRuleEngine BuildRuleEngine();
         public decimal CalculatePrice(IRuleEngine ruleEngine, List<ITicket> tickets);
         public decimal CalculatePrice(IRuleEngine ruleEngine, ITicket ticket);
+
+        public decimal CalculatePrice(List<ITicket> tickets);
+        public decimal CalculatePrice(ITicket ticket);
     }
 }
