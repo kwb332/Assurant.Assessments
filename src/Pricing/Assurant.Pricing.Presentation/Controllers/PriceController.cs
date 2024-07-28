@@ -28,8 +28,23 @@ public class PricingController : ControllerBase
         ticket.Age = 30;
 
         decimal results = _ruleService.CalculatePrice(ruleEngine, ticket);
+        results = results < 0 ? 0 : results;
 
         return results;
     }
-}
+        [HttpPost(Name = "GetPrices")]
+        public decimal Post(List<Ticket> tickets)
+        {
+            IRuleEngine ruleEngine = _ruleService.BuildRuleEngine();
+            decimal results =0;
+
+            foreach (Ticket ticket in tickets)
+            {
+                results = +_ruleService.CalculatePrice(ruleEngine, ticket);
+               
+            }
+            results = results < 0 ? 0 : results; 
+            return results;
+        }
+    }
 }

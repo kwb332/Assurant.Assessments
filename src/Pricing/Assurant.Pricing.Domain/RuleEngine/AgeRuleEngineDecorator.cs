@@ -32,7 +32,13 @@ namespace Assurant.Pricing.Domain.RuleEngine
         public override decimal CalculatePrice(ITicket ticket, IPriceRepository priceRepository, IHolidayRepository holidayRepository)
         {
             decimal basePrice = _ruleEngine.CalculatePrice(ticket, priceRepository, holidayRepository);
-           if(ticket.Age >= 0 && ticket.Age <= 6)
+            
+            if(ticket.Age <= 0)
+            {
+                return basePrice;
+            }
+            
+            else if(ticket.Age <= 6)
             {
                 return 0;
             }
@@ -46,7 +52,7 @@ namespace Assurant.Pricing.Domain.RuleEngine
             }
             else if (ticket.Age > 23 && ticket.Age <= 63)
             {
-                return basePrice * 1;
+                return basePrice;
             }
             else if (ticket.Age >= 64)
             {

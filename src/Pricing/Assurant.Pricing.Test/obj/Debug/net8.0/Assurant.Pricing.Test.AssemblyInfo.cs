@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Assurant.Pricing.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abf3a336943d9656f636078249eb1f136f6bab63")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e976dfb1a055ddc5827daec6330af605c1c85187")]
 [assembly: System.Reflection.AssemblyProductAttribute("Assurant.Pricing.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Assurant.Pricing.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

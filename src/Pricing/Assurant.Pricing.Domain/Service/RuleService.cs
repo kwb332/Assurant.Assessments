@@ -25,6 +25,10 @@ namespace Assurant.Pricing.Domain.Service
             foreach (Rule ruleEngine in _options.Value.Rules.OrderBy(x=>x.Precedence))
             {
                 defaultRuleEngine = (RuleEngine.RuleEngine) RuleEngineFactory.CreateEngine(ruleEngine.RuleName, defaultRuleEngine);
+                if (!defaultRuleEngine.EndCalulations)
+                    continue;
+                break;
+
             }
             return defaultRuleEngine;
         }

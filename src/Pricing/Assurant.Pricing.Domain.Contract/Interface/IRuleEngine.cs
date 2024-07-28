@@ -9,6 +9,8 @@ namespace Assurant.Pricing.Domain.Contract.Interface
     {
         public decimal CalculatePrice(ITicket ticket, IPriceRepository priceRepository, IHolidayRepository holidayRepository);
         public void SetComponent(IRuleEngine ruleEngine);
+
+        public bool EndCalulations {  get; set; }
         
     }
 }

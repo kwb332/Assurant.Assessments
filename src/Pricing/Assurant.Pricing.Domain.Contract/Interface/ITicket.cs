@@ -8,7 +8,7 @@ namespace Assurant.Pricing.Domain.Contract.Interface
     {
         public int Age { get; set; }
         public string Type { get; set; }
-        public DateTime Date { get; set; }
+        public DateTime? Date { get; set; }
         public bool IsStudent { get; set; }
     }
 }

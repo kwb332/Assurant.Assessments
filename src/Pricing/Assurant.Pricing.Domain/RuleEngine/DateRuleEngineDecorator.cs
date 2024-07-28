@@ -33,7 +33,7 @@ namespace Assurant.Pricing.Domain.RuleEngine
                 if (ticket.Age >= 6)
                 {
                     price = price - (price * Convert.ToDecimal(.40));
-
+                   
                 }
                 else
                 {
@@ -48,9 +48,9 @@ namespace Assurant.Pricing.Domain.RuleEngine
             if (ticket.Date != null && ticket.Date != DateTime.MinValue)
             {
            
-                if (!isHoliday && (int)ticket.Date.DayOfWeek == 1)
+                if (!isHoliday && (int)ticket.Date.Value.DayOfWeek == 1)
                 {
-                   price = price - (price * Convert.ToDecimal(.35));
+                   price = price - 35;
                 }
             }
             return price;
@@ -64,19 +64,21 @@ namespace Assurant.Pricing.Domain.RuleEngine
         private bool CheckDate(ITicket ticket, List<DateTime> holidaysDates)
         {
             bool isHoliday = false;
+            if (ticket.Date == null)
+            {
+                return false;
+            }
             foreach (DateTime holiday in holidaysDates)
             {
-                if (ticket.Date != null)
-                {
-
-                    if (ticket.Date.Year == holiday.Year &&
-                        ticket.Date.Month == holiday.Month &&
-                        ticket.Date.Date == holiday.Date)
+               
+                    if (ticket.Date.Value.Year == holiday.Year &&
+                        ticket.Date.Value.Month == holiday.Month &&
+                        ticket.Date.Value.Date == holiday.Date)
                     {
-                        isHoliday = true;
+                    return true;
                     }
                 }
-            }
+            
             return isHoliday;
         }
     }
