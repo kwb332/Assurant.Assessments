@@ -22,7 +22,7 @@ namespace Assurant.Pricing.Domain.Service
 
 
             RuleEngine.RuleEngine defaultRuleEngine = new DefaultRuleEngine();
-            foreach (Rule ruleEngine in _options.Value.Rules)
+            foreach (Rule ruleEngine in _options.Value.Rules.OrderBy(x=>x.Precedence))
             {
                 defaultRuleEngine = (RuleEngine.RuleEngine) RuleEngineFactory.CreateEngine(ruleEngine.RuleName, defaultRuleEngine);
             }

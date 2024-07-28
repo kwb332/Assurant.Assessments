@@ -7,5 +7,6 @@ namespace Assurant.Pricing.Domain.Contract.DomainModel
     public class Rule
     {
         public String? RuleName { get; set; }
+        public int? Precedence { get; set; }
     }
 }

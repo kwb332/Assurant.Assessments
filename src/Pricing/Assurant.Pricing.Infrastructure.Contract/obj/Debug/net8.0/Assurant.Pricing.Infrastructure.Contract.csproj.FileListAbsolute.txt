@@ -1,12 +1,12 @@
+C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Infrastructure.Contract\bin\Debug\net8.0\Assurant.Pricing.Infrastructure.Contract.deps.json
+C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Infrastructure.Contract\bin\Debug\net8.0\Assurant.Pricing.Infrastructure.Contract.dll
+C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Infrastructure.Contract\bin\Debug\net8.0\Assurant.Pricing.Infrastructure.Contract.pdb
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Infrastructure.Contract\obj\Debug\net8.0\Assurant.Pricing.Infrastructure.Contract.GeneratedMSBuildEditorConfig.editorconfig
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Infrastructure.Contract\obj\Debug\net8.0\Assurant.Pricing.Infrastructure.Contract.AssemblyInfoInputs.cache
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Infrastructure.Contract\obj\Debug\net8.0\Assurant.Pricing.Infrastructure.Contract.AssemblyInfo.cs
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Infrastructure.Contract\obj\Debug\net8.0\Assurant.Pricing.Infrastructure.Contract.csproj.CoreCompileInputs.cache
-C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Infrastructure.Contract\bin\Debug\net8.0\Assurant.Pricing.Infrastructure.Contract.deps.json
-C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Infrastructure.Contract\bin\Debug\net8.0\Assurant.Pricing.Infrastructure.Contract.dll
-C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Infrastructure.Contract\bin\Debug\net8.0\Assurant.Pricing.Infrastructure.Contract.pdb
+C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Infrastructure.Contract\obj\Debug\net8.0\Assurant.Pricing.Infrastructure.Contract.sourcelink.json
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Infrastructure.Contract\obj\Debug\net8.0\Assurant.Pricing.Infrastructure.Contract.dll
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Infrastructure.Contract\obj\Debug\net8.0\refint\Assurant.Pricing.Infrastructure.Contract.dll
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Infrastructure.Contract\obj\Debug\net8.0\Assurant.Pricing.Infrastructure.Contract.pdb
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Infrastructure.Contract\obj\Debug\net8.0\ref\Assurant.Pricing.Infrastructure.Contract.dll
-C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Infrastructure.Contract\obj\Debug\net8.0\Assurant.Pricing.Infrastructure.Contract.sourcelink.json

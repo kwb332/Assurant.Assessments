@@ -7,6 +7,7 @@ C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Presentation\bin\Debug\
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Presentation\bin\Debug\net8.0\Assurant.Pricing.Presentation.pdb
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Presentation\bin\Debug\net8.0\Azure.Core.dll
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Presentation\bin\Debug\net8.0\Azure.Identity.dll
+C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Presentation\bin\Debug\net8.0\Castle.Core.dll
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Presentation\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Presentation\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
@@ -25,6 +26,7 @@ C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Presentation\bin\Debug\
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Presentation\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Presentation\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Presentation\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Presentation\bin\Debug\net8.0\Moq.dll
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -63,6 +65,7 @@ C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Presentation\obj\Debug\
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Presentation\obj\Debug\net8.0\Assurant.Pricing.Presentation.csproj.CoreCompileInputs.cache
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Presentation\obj\Debug\net8.0\Assurant.Pricing.Presentation.MvcApplicationPartsAssemblyInfo.cs
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Presentation\obj\Debug\net8.0\Assurant.Pricing.Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Presentation\obj\Debug\net8.0\Assurant.Pricing.Presentation.sourcelink.json
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Presentation\obj\Debug\net8.0\staticwebassets.build.json
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Presentation\obj\Debug\net8.0\staticwebassets.development.json
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.Assurant.Pricing.Presentation.Microsoft.AspNetCore.StaticWebAssets.props
@@ -77,6 +80,3 @@ C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Presentation\obj\Debug\
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Presentation\obj\Debug\net8.0\Assurant.Pricing.Presentation.pdb
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Presentation\obj\Debug\net8.0\Assurant.Pricing.Presentation.genruntimeconfig.cache
 C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Presentation\obj\Debug\net8.0\ref\Assurant.Pricing.Presentation.dll
-C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Presentation\bin\Debug\net8.0\Castle.Core.dll
-C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Presentation\bin\Debug\net8.0\Moq.dll
-C:\dev\Assurant.Assessments\src\Pricing\Assurant.Pricing.Presentation\obj\Debug\net8.0\Assurant.Pricing.Presentation.sourcelink.json
